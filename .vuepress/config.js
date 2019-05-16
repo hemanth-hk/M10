@@ -6,7 +6,7 @@ module.exports = {
     head: [
       ['link', { rel: 'manifest', href: '/manifest.json' }]
     ],
-    description : 'Welcome to runtimrTerror\'s Blog :)',
+    description : 'Welcome to runtimeTerror\'s Blog :)',
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
