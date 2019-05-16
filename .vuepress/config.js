@@ -4,7 +4,8 @@ module.exports = {
       updatePopup: true,
     },
     head: [
-      ['link', { rel: 'manifest', href: '/manifest.json' }]
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
+      ['link', { rel: 'short icon', type: 'image/png', href: 'assets/img/logo.png' }]
     ],
     description : 'Welcome to runtimeTerror\'s Blog :)',
     themeConfig: {
@@ -17,3 +18,4 @@ module.exports = {
       logo : 'assets/img/logo.png',
     },
   }
+  
