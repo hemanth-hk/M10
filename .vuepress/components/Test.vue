@@ -4,12 +4,10 @@
         <h1>
             Post's Title
         </h1>
-        <p>
             <h3>
                 Small description
             </h3>
-            <span>12 min read</span>
-        </p>
+            <span style="color : grey;">12 min read</span>
         <p class="content">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum error aliquam quaerat possimus repudiandae iusto animi temporibus blanditiis omnis? Voluptatibus optio et dolores ratione aspernatur modi. Facere omnis asperiores explicabo?
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit qui, ipsa eaque est obcaecati voluptatibus doloremque, magnam quod pariatur illum blanditiis ducimus magni nulla ipsum, tempora maiores perspiciatis cum. Aliquam!
