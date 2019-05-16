@@ -3,8 +3,8 @@
     "short_name": "M10",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "blueviolet",
-    "theme_color" : "white",
+    "background_color": "white",
+    "theme_color" : "blueviolet",
     "orientation" : "portrait-primary",
     "icons": [{
       "src": "assets/img/logo48.png",
