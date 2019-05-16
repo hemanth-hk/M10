@@ -7,6 +7,8 @@ module.exports = {
         { text: 'External', link: 'https://google.com' },
       ],
       sidebar : 'auto',
-      serviceWorker : true,
+      serviceWorker : {
+        updatePopup: true,
+      },
     }
   }
