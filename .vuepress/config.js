@@ -1,15 +1,17 @@
 module.exports = {
-    title : "M10",
+    title : 'M10',
+    serviceWorker : true,
+    head: [
+      ['link', { rel: 'manifest', href: '/manifest.json' }]
+    ],
+    description : 'Welcome to runtimrTerror\'s Blog :)',
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Guide', link: '/guide' },
-        { text: 'External', link: 'https://google.com' },
+        { text: 'All posts', link: '/all-posts' },
       ],
       sidebar : 'auto',
-      serviceWorker : {
-        updatePopup: true,
-      },
       lastUpdated: 'Last Updated',
-    }
+      logo : 'assets/img/logo.png',
+    },
   }

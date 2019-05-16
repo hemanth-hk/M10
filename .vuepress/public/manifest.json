@@ -1,0 +1,39 @@
+{
+    "name": "M10: runtimeTerror's blog!",
+    "short_name": "M10",
+    "start_url": "../dist/index.html",
+    "display": "standalone",
+    "background_color": "blueviolet",
+    "theme_color" : "blueviolet",
+    "orientation" : "portrait-primary",
+    "icons": [{
+      "src": "assets/img/logo48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+     {
+      "src": "assets/img/logo72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+     {
+      "src": "assets/img/logo96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+     {
+      "src": "assets/img/logo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+     {
+      "src": "assets/img/logo168.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+     {
+      "src": "assets/img/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+}
