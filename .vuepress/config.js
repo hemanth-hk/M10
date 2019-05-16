@@ -1,6 +1,8 @@
 module.exports = {
     title : 'M10',
-    serviceWorker : true,
+    serviceWorker : {
+      updatePopup: true,
+    },
     head: [
       ['link', { rel: 'manifest', href: '/manifest.json' }],
       ['link', { rel: 'short icon', type: 'image/png', href: 'assets/img/logo.png' }]
