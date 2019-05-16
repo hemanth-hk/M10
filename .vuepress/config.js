@@ -1,6 +1,8 @@
 module.exports = {
     title : 'M10',
-    serviceWorker : true,
+    serviceWorker : {
+      updatePopup: true,
+    },
     head: [
       ['link', { rel: 'manifest', href: '/manifest.json' }]
     ],
