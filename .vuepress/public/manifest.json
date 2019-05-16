@@ -1,7 +1,7 @@
 {
     "name": "M10: runtimeTerror's blog!",
     "short_name": "M10",
-    "start_url": "../dist/index.html",
+    "start_url": ".vuepress/dist/index.html",
     "display": "standalone",
     "background_color": "blueviolet",
     "theme_color" : "blueviolet",
