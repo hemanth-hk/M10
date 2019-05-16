@@ -9,7 +9,7 @@ module.exports = {
       sidebar : 'auto',
       serviceWorker : {
         updatePopup: true,
-        lastUpdated: 'Last Updated',
       },
+      lastUpdated: 'Last Updated',
     }
   }
