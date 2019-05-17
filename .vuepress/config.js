@@ -8,7 +8,10 @@ module.exports = {
     description : 'Welcome to runtimeTerror\'s Blog :)',
     themeConfig: {
       serviceWorker : {
-        updatePopup: true,
+        updatePopup: { 
+              message: "New content is available.", 
+              buttonText: "Refresh" 
+           }
       },
       nav: [
         { text: 'Home', link: '/' },
