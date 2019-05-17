@@ -47,7 +47,7 @@ The `dist` folder inside the `.vuepress` folder contains all the static code fil
 
 - Then hit `Deploy site`
 - Netlify will automatically build the site and deploy as `https://<something>.netlify.com`
-- To know about adding a costom domain see [netlify docs](https://www.netlify.com/docs/custom-domains/)
+- To know about adding a custom domain see [netlify docs](https://www.netlify.com/docs/custom-domains/)
 
 :::tip Congrats
 Your site is live with push-to-deploy feature, to check this, you can make change and push to your repo and test it! :tada:
