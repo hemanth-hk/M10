@@ -1,4 +1,4 @@
 ---
 title : Projects
 ---
-# Coming soon! :grinning:
+<projects-One/>
