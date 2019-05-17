@@ -1,14 +1,15 @@
 module.exports = {
     title : 'M10',
-    serviceWorker : {
-      updatePopup: true,
-    },
+    serviceWorker : true,
     head: [
       ['link', { rel: 'manifest', href: '/manifest.json' }],
       ['link', { rel: 'short icon', type: 'image/png', href: 'assets/img/logo.png' }]
     ],
     description : 'Welcome to runtimeTerror\'s Blog :)',
     themeConfig: {
+      serviceWorker : {
+        updatePopup: true,
+      },
       nav: [
         { text: 'Home', link: '/' },
         { text: 'All posts', link: '/all-posts' },
