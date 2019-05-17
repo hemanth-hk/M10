@@ -28,7 +28,7 @@ The `dist` folder inside the `.vuepress` folder contains all the static code fil
 ### Netlify account
 - You can login with your github account or signup at [netlify](https://www.netlify.com/)
 ### Vuepress as local dependency
-- At the root of your project type `npm init` and give the git url when it asks then type `npm i vuepress`
+- At the root of your project open cmd and type `npm init` and give the git url when it asks then type `npm i vuepress`
 
 ## Step 1  
 - Push your project to Github with a `.gitignore` to node-modules
