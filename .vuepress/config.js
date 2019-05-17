@@ -15,7 +15,8 @@ module.exports = {
       },
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'All posts', link: '/all-posts' },
+        { text: 'Posts', link: '/all-posts' },
+        { text: 'Projects', link: '/all-projects' },
       ],
       sidebar : 'auto',
       lastUpdated: 'Last Updated',
