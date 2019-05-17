@@ -1,3 +1,6 @@
-# hello from vue net
+---
+title : Hosting vuepress site
+---
 <vuenet-One/>
-## h2 from vuenet
+
+## Step 1
