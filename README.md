@@ -13,4 +13,5 @@ features:
   details: I really don't know "Y" I named my blog as M10, it just popped out of my head and sounded cool ¯\_(ツ)_/¯
 footer: Copyright © 2019-present runtimeTerror
 ---
->The code of this site is available [here](https://github.com/hemanth-hk/M10.git)
+>Find me on    
+ [Facebook](https://www.facebook.com/hemanthkumar.uppada.129) [Linked In](https://www.linkedin.com/in/hemanth-kumar-uppada-7618ba174/) [Github](https://github.com/hemanth-hk)

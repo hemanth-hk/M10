@@ -54,6 +54,6 @@ Your site is live with push-to-deploy feature, to check this, you can make chang
 :::
 
 >Found a typo?   
-Please correct it [here](https://github.com/hemanth-hk/M10/blob/master/vuenet.md) and send a `pull request`
+Please ping me [here](https://www.facebook.com/hemanthkumar.uppada.129)
 
 ## Thanks for reading :smile:
