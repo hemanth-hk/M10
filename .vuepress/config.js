@@ -4,7 +4,7 @@ module.exports = {
     head: [
       ['link', { rel: 'manifest', href: '/manifest.json' }],
       ['link', { rel: 'short icon', type: 'image/png', href: 'assets/img/logo.png' }],
-      ['meta', { name: 'google-site-verification" content="m9GfZJM_yujiLa-Yt4xuIIpqhHPYRMupjFrMPTSUdyc'}]
+      ['meta', { name: 'google-site-verification', content: 'm9GfZJM_yujiLa-Yt4xuIIpqhHPYRMupjFrMPTSUdyc'}]
     ],
     description : 'Welcome to runtimeTerror\'s Blog :)',
     themeConfig: {
