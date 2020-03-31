@@ -1,23 +1,13 @@
 <template>
     <div>
-        <img src="assets/img/logo72.png" class="side-logo"/>
-        <h1>
-            Post's Title
-        </h1>
-        <h3>
-            Small description
-        </h3>
-        <span style="color : grey;">12 min read</span>
+        <h2>{{ mainTitle }}</h2>
+        <h4>{{ description }}</h4>
+        <span style="color : grey;">{{ minOfread }}</span>
     </div>
 </template>
-<style scoped>
-.side-logo{
-    float: right;
+<script>
+export default {
+    name : 'Ttile',
+    props : ['mainTitle','description','minOfread'],
 }
-.img1{
-    text-align: center;
-}
-.content{
-    font-size: 1.2rem;
-}
-</style>
+</script>

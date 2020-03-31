@@ -14,4 +14,4 @@ features:
 footer: Copyright © 2019-present runtimeTerror
 ---
 >Find me on    
- [Facebook](https://www.facebook.com/hemanthkumar.uppada.129) [Linked In](https://www.linkedin.com/in/hemanth-kumar-uppada-7618ba174/) [Github](https://github.com/hemanth-hk)
+ [Twitter](https://twitter.com/runtimeTerror17) [Linked In](https://www.linkedin.com/in/hemanth-kumar-uppada-7618ba174/) [Github](https://github.com/hemanth-hk)
